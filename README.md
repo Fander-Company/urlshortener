@@ -11,7 +11,7 @@ Url Shortener App - GoTiny.cc API.
   <h3 align="center">BriefaGa</h3>
 
   <p align="center">
-    <samp>A free </samp><a href="https://briefa.ga"><strong>URL Shortener (BriefaGa)</strong></a><samp>on</samp><a href="https://briefa.ga"><strong>GoTiny.cc API</strong></a>
+    <samp>A free </samp><a href="https://briefa.ga"><strong>URL Shortener (BriefaGa)</strong></a><samp> on </samp><a href="https://briefa.ga"><strong>GoTiny.cc API</strong></a>
     <br />
     <a href="https://github.com/robvanbakel/gotiny-api"><strong>Explore the api »</strong></a>
     <br />
