@@ -11,9 +11,9 @@ Url Shortener App - GoTiny.cc API.
   <h3 align="center">Animechan</h3>
 
   <p align="center">
-    <samp>A free restful API serving quality anime quotes</samp>
+    <samp>A free </samp><a href="https://briefa.ga"><strong>URL Shortener (BriefaGa)</strong></a><samp>on</samp><a href="https://briefa.ga"><strong>GoTiny.cc API</strong></a>
     <br />
-    <a href="https://animechan.vercel.app/"><strong>Explore the api »</strong></a>
+    <a href="https://github.com/robvanbakel/gotiny-api"><strong>Explore the api »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Fander-Company/urlshortener/issues/1">Comments</a>
@@ -28,8 +28,9 @@ Url Shortener App - GoTiny.cc API.
 
 ### Techstack
 
-* [Requests](https://koajs.com/) - api is written in Koa
-* [Tkinter](https://nextjs.org/) - website is created in Next
+* [Requests](https://requests.readthedocs.io/) - Module
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - Module
+* []
 
 <br/>
 
