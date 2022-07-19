@@ -30,7 +30,6 @@ Url Shortener App - GoTiny.cc API.
 
 * [Requests](https://requests.readthedocs.io/) - Module
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) - Module
-* []
 
 <br/>
 
