@@ -8,7 +8,7 @@ Url Shortener App - GoTiny.cc API.
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Animechan</h3>
+  <h3 align="center">BriefaGa</h3>
 
   <p align="center">
     <samp>A free </samp><a href="https://briefa.ga"><strong>URL Shortener (BriefaGa)</strong></a><samp>on</samp><a href="https://briefa.ga"><strong>GoTiny.cc API</strong></a>
@@ -43,6 +43,6 @@ If you use my project you can donate.
 <br/>
 
 <!-- LICENSE -->
-### Copyright
+### Author
 
 [Fander Company](https://fadcomp.tk)
